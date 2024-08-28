@@ -1,0 +1,13 @@
+.sort-container {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 1;
+    padding: 0.5rem;
+    background-color: white;
+    border-radius: 999px;
+}
+
+.sort-container * {
+    border: none;
+    color: black;
+}

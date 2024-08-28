@@ -1,0 +1,126 @@
+{
+    "foundPosts": {
+      "1697653581919": {
+        "contactInfo": "8478147947",
+        "description": "Water bottle",
+        "hidden": false,
+        "id": 1697653581919,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5Cwaterbottle.JPG?alt=media&token=32c34369-acea-498a-8a60-173e7e1af743",
+        "location": "Tech Auditorium",
+        "lostOrFound": "found",
+        "name": "Alex Modugno",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      },
+      "1697672980676": {
+        "contactInfo": "3242432939",
+        "description": "Airpods",
+        "hidden": false,
+        "id": 1697672980676,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5Cairpods.JPG?alt=media&token=b652f514-4349-409b-9487-5e524875405f",
+        "location": "Mudd First Floor",
+        "lostOrFound": "found",
+        "name": "Jim Smithson",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      },
+      "1697673225385": {
+        "contactInfo": "6304985020",
+        "description": "Notebook",
+        "hidden": false,
+        "id": 1697673225385,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5CIMG_2554.JPG?alt=media&token=500b10a2-aeef-40e4-83cd-61fff9b4bcbf",
+        "location": "Main Library (Core)",
+        "lostOrFound": "found",
+        "name": "Jennifer Wright",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      }
+    },
+    "lostPosts": {
+      "1697673281449": {
+        "contactInfo": "8471238890",
+        "description": "Charger",
+        "hidden": false,
+        "id": 1697673281449,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5CIMG_2553.JPG?alt=media&token=742439ac-2415-47ed-9710-12a94707ff78",
+        "location": "Kresge",
+        "lostOrFound": "lost",
+        "name": "John King",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      },
+      "1697673341524": {
+        "contactInfo": "6302349910",
+        "description": "Textbook",
+        "hidden": false,
+        "id": 1697673341524,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5CIMG_2552.JPG?alt=media&token=619bba57-de71-425a-aa8a-26cc14bd0279",
+        "location": "Annenberg",
+        "lostOrFound": "lost",
+        "name": "Anna Johnson",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      },
+      "1697733530717": {
+        "contactInfo": "6308771829",
+        "description": "Umbrella",
+        "hidden": false,
+        "id": 1697733530717,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5Cumbrella.JPG?alt=media&token=f1a114f6-50aa-45de-8ad6-79bf667b42fe",
+        "location": "Lakefront",
+        "lostOrFound": "lost",
+        "name": "Tim Brown",
+        "uid": "9NgmBelwvrdbN67HfZjWdEKtUVV2"
+      },
+      "1697832943669": {
+        "contactInfo": "12132341",
+        "description": "Airpods",
+        "hidden": true,
+        "id": 1697832943669,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5Cairpod.jpg?alt=media&token=63afda17-786a-4bfa-af8e-1d493d644e1a",
+        "location": "Mudd somehwere",
+        "lostOrFound": "lost",
+        "name": "Alex",
+        "uid": "KKYKKaXwxyTDM5QJtrW7PTwVvdu1"
+      },
+      "1698292990730": {
+        "contactInfo": "yo",
+        "description": "yo",
+        "hidden": false,
+        "id": 1698292990730,
+        "image": "https://firebasestorage.googleapis.com/v0/b/lostnfound-c4ccf.appspot.com/o/C%3A%5Cfakepath%5Cscientist.jpg?alt=media&token=20eb983d-9bc6-4a9f-8121-a422a3f57296",
+        "location": "ytyt",
+        "lostOrFound": "lost",
+        "name": "hi",
+        "uid": "7BD2A9aRNZPLbxmRuQGLLgysPv83"
+      }
+    },
+    "users": {
+      "77U9GhbcXTSSUSSepq9YoyM2nOQ2": {
+        "email": "youssefibrahim603@gmail.com",
+        "name": "Youssef Ibrahim",
+        "uid": "77U9GhbcXTSSUSSepq9YoyM2nOQ2"
+      },
+      "BRlM68Pl9TR9W91ewCaeHrkHGrI2": {
+        "email": "amybao2024@u.northwestern.edu",
+        "name": "Amy Bao",
+        "uid": "BRlM68Pl9TR9W91ewCaeHrkHGrI2"
+      },
+      "IppiPFJpsThfUqOGrU6hqC3JAQv1": {
+        "email": "chris.riesbeck@gmail.com",
+        "name": "Chris Riesbeck",
+        "uid": "IppiPFJpsThfUqOGrU6hqC3JAQv1"
+      },
+      "KKYKKaXwxyTDM5QJtrW7PTwVvdu1": {
+        "email": "c-riesbeck@u.northwestern.edu",
+        "name": "Christopher Riesbeck",
+        "uid": "KKYKKaXwxyTDM5QJtrW7PTwVvdu1"
+      },
+      "Tr67upEY5NNhKLo76rf47ldNhe22": {
+        "email": "laytonliu8@gmail.com",
+        "name": "Layton Liu",
+        "uid": "Tr67upEY5NNhKLo76rf47ldNhe22"
+      },
+      "ikDmI11AVKUGA5MupCpMkBZYLD23": {
+        "email": "amyzbao@gmail.com",
+        "name": "Amy Bao",
+        "uid": "ikDmI11AVKUGA5MupCpMkBZYLD23"
+      }
+    }
+  }

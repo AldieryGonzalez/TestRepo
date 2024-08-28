@@ -1,0 +1,43 @@
+{
+    "title": "Lost item posts",
+    "lostPosts": {
+        "1": {
+            "id": "1",
+            "name": "Alex Modugno",
+            "description": "Water bottle",
+            "contactInfo": "AlexModugno2024@u.northwestern.edu",
+            "location": "Tech",
+            "image": "",
+            "lostOrFound": "lost"
+        },
+        "2": {
+            "id": "2",
+            "name": "Alex Modugno",
+            "description": "Water bottle",
+            "contactInfo": "AlexModugno2024@u.northwestern.edu",
+            "location": "Tech",
+            "image": "",
+            "lostOrFound": "lost"
+        }
+    },
+    "foundPosts": {
+        "1": {
+            "id": "1",
+            "name": "Alex Modugno",
+            "description": "Water bottle",
+            "contactInfo": "AlexModugno2024@u.northwestern.edu",
+            "location": "Tech",
+            "image": "",
+            "lostOrFound": "lost"
+        },
+        "2": {
+            "id": "2",
+            "name": "John Smith",
+            "description": "Notebook",
+            "contactInfo": "JohnSmith2024@u.northwestern.edu",
+            "location": "Norris 2th floor",
+            "image": "",
+            "lostOrFound": "found"
+        }
+    }
+}

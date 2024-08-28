@@ -1,0 +1,69 @@
+.post-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 250px;
+    height: auto; /* Change the height to "auto" to allow it to expand based on content */
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Add this to handle the image size */
+  }
+
+.card-body {
+    padding: 15px;
+    flex-grow: 1;
+}
+
+.card-body .description {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.location {
+    font-size: 1.0rem;
+    color: #333;
+}
+
+.name {
+    font-size: 1.0rem;
+    color: #333;
+}
+
+.button {
+    width: 150px;
+    font-size: 1.0rem;
+    color: white;
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 150px;
+    background-color: rgb(214, 172, 235);
+    border: none;
+}
+
+.post-image {
+    max-height: 150px; 
+    overflow: hidden; 
+    margin-bottom: 10px;
+  }
+  
+.post-image img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+.optionsButton {
+    background-color: transparent;
+    position: absolute;
+    border: none;
+    top: 1rem;
+    right: 1rem;
+}
